@@ -24,6 +24,6 @@ Welcome to my GitHub profile! I am a passionate Data Analyst dedicated to bridgi
 ### 🚀 Featured Project
 
 #### 📂 Project Title: Ecommerce Sales Analysis Project
-* **Description:** I Analyze the Ecommerce Sales Analysis Data to get insights about the performance of the firm, Monitoring KPIs and building interactive dashboards.
+* **Description:** I Analyze the Ecommerce Data to get insights about the performance of the firm, Monitoring KPIs and building interactive dashboards.
 * **Tech Stack:** Python, MySQL, Power BI and Tableau
 
